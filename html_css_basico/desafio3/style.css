@@ -1,0 +1,11 @@
+p {
+    background-color: #f5f5f5;
+    text-align: justify;
+    margin-bottom: 40px;
+    padding: 20px;
+    /* line-height: 30px; */
+}
+
+.paragrafo-destacado1 {
+    background-color: #f0cce2;
+}

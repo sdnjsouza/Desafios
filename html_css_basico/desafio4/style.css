@@ -1,0 +1,24 @@
+table {
+    text-align: center;
+    color: #e2ebeb;
+}
+
+a {
+    color: #f0ffff;
+}
+
+a:hover {
+    color: #7fff00;
+}
+
+td {
+    background-color: #424250;
+}
+
+.cabecalho-camisas {
+    background-color: #BB86FC;
+}
+
+.cabecalho-moletons {
+    background-color: #00C4B4;
+}
